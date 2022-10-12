@@ -1,7 +1,4 @@
 using IcwCubes;
-using System.Collections;
-using System.Collections.Generic;
-using System.Xml.XPath;
 using UnityEngine;
 
 namespace IcwCube

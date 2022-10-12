@@ -1,7 +1,7 @@
-﻿using IcwCube;
+﻿
 using UnityEngine;
 
-namespace IcwCubes
+namespace IcwCube
 {
     public class IcwWelcomeForm : MonoBehaviour
     {
